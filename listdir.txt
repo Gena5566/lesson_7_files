@@ -1,0 +1,2 @@
+files: files.py, test.consol.py, test.py, my_orders.py, orders.txt, text.txt, balance.txt, main.py, consol.manedjer.py, listdir.txt
+dirs: venv, .idea
